@@ -5,6 +5,15 @@ Provides two things: A Self Disappearing Pretty Alert Message & Pretty Message U
 
 [link]: http://itunes.apple.com/us/app/my-things-where-are-they/id529353551?ls=1&mt=8
 
+##Screenshots
+
+[Self Disappearing Pretty Message Alert] [ss1]
+
+[Pretty Message With Spinner] [ss2]
+
+[ss1]: https://github.com/dhanushram/PrettyMsg/blob/master/ScreenShots/screenshot1.png
+[ss2]: https://github.com/dhanushram/PrettyMsg/blob/master/ScreenShots/screenshot2.png
+
 ##Instructions for Self Disappearing Pretty Alert Message
 
 1) Copy & Paste ShowPrettyMsg:fontsize:forduration: method from ViewController.m to your desired view controller.  
