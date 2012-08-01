@@ -12,8 +12,8 @@ Provides two things: A Self Disappearing Pretty Alert Message & Pretty Message U
 
 ##Instructions for Pretty Message UIView with Spinner
 
-1) Instantiate MsgActivityView in your desired view controller.
-2) Invoke showMsgAndAnimate: method with the message string
+1) Instantiate MsgActivityView in your desired view controller.  
+2) Invoke showMsgAndAnimate: method with the message string.  
 3) Invoke stopMsg: method to stop showing the spinner message view
 
 ##License
