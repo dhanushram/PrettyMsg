@@ -7,7 +7,7 @@ Provides two things: A Self Disappearing Pretty Alert Message & Pretty Message U
 
 ##Instructions for Self Disappearing Pretty Alert Message
 
-1) Copy & Paste ShowPrettyMsg:fontsize:forduration method from ViewController.m to your desired view controller.  
+1) Copy & Paste ShowPrettyMsg:fontsize:forduration: method from ViewController.m to your desired view controller.  
 2) Invoke the method with the message string, font size (recommended 17.0) and duration (recommended 1.5 for short & 2.5 for long messages)
 
 ##Instructions for Pretty Message UIView with Spinner
