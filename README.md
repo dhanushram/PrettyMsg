@@ -1,6 +1,6 @@
 Self Disappearing Pretty Message & Pretty Message With Spinner
 =============================================
-This project was developed as part of the iOS App: [My Things - Where Are They?] [link] 
+This project was developed as part of the iOS App: [My Things - Where Are They?] [link]   
 Provides two things: A Self Disappearing Pretty Alert Message & Pretty Message UIView with Spinner
 
 [link]: http://itunes.apple.com/us/app/my-things-where-are-they/id529353551?ls=1&mt=8
